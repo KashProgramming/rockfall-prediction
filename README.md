@@ -44,8 +44,7 @@ DevOps:    Docker + Kubernetes + Prefect + MLflow
 ```
 
 ### Data Processing Pipeline
-<img width="329" height="423" alt="system_flow" src="https://github.com/user-attachments/assets/b4395fc9-e9e9-4c75-aa64-244da69d6aa5" />
-
+<img width="441" height="547" alt="image" src="https://github.com/user-attachments/assets/9bbf9792-5166-47c5-ba9f-af4a9b269c2a" />
 
 ### LSTM Dual Branch Model
 - **Dynamic Branch**: LSTM autoencoder for temporal anomaly detection
