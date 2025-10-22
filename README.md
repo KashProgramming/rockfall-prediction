@@ -74,6 +74,7 @@ DevOps:    Docker + Kubernetes + Prefect + MLflow
 2. **Automatic Alerts** - Receive SMS/WhatsApp warnings
 3. **Risk Level Updates** - Real-time safety status notifications
 
+---
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
